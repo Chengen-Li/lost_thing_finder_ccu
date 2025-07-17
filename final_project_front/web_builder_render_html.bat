@@ -1,0 +1,1 @@
+flutter build web --release --csp --web-renderer=html --source-maps
